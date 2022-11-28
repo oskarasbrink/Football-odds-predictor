@@ -1,8 +1,8 @@
 
 Contributors:
-Oskar Åsbrink
-David Andersson
-Rohat Bedikanli
+- Oskar Åsbrink
+- David Andersson
+- Rohat Bedikanli
 
 # Football Odds Predictor
 
