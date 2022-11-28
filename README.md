@@ -1,3 +1,9 @@
+
+Contributors:
+Oskar Åsbrink
+David Andersson
+Rohat Bedikanli
+
 # Football Odds Predictor
 
 This is a project from three Data Science/Software Engineering students to practice skills in ML and data preprocessing in pandas. The data used is not provided but we are working on instructions and code on how to adapt your own data to fit our framework. Model and appropriate loss function is currently under development, and results will be displayed once good results are achieved. The intent is to train a model on higher-level leagues to then apply to lower level leagues where there is less effort from betting companies.
